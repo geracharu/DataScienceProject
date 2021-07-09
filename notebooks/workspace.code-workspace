@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\HomeCreditModel-1"
+		},
+		{
+			"path": "..\\models"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\references"
+		},
+		{
+			"path": "..\\reports"
+		},
+		{
+			"path": "..\\src"
+		},
+		{
+			"path": "..\\data"
+		},
+		{
+			"path": "..\\docs"
+		}
+	],
+	"settings": {}
+}
